@@ -45,10 +45,6 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
-                    <connections>
-                        <outlet property="outputField" destination="bHn-En-AQW" id="M9N-zS-9n2"/>
-                        <outlet property="userInputField" destination="2GI-b0-Wmi" id="kCV-sn-HKT"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>

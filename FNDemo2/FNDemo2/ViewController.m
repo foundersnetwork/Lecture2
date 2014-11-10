@@ -9,8 +9,10 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-@property (weak, nonatomic) IBOutlet UITextField *userInputField;
-@property (weak, nonatomic) IBOutlet UILabel *outputField;
+    //****************************************//
+    // control+drag the text field and the output
+    // field here and give them names
+    //****************************************//
 @property (nonatomic, strong) NSArray *namesArray;
 @end
 
